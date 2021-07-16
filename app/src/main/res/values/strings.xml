@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Firebase Project</string>
+    <string name="prefs_file">com.mackenzie.firebaseproject.FILE_key</string>
+
+    <string name="facebook_app_id">971093343631907</string>
+    <string name="fb_login_protocol_scheme">fb971093343631907</string>
+
+    <string name="msg_token_fmt">Token Obtenido! </string>
+    <string name="msg_subscribed">Suscrito con exito! </string>
+    <string name="msg_subscribe_failed">Fallo al suscribir! </string>
+    <string name="calle_numero_piso">Calle, Numero, Piso</string>
+    <string name="secci_n">Sección</string>
+    <string name="asignatura">Asignatura</string>
+    <string name="escriba_el_tema">Escriba el Tema</string>
+    <string name="registrar">Registrar</string>
+
+</resources>

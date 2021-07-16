@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>show_error_button</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>error_button_text</key>
+        <value>"Forzar Error"</value>
+    </entry>
+</defaultsMap>
